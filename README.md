@@ -1,4 +1,10 @@
-### Hi there 👋
+<!--
+[Lightmode]
+[Darkmode] 
+link image of your name use a font generator for something cool
+-->
+
+# Hi there 👋
 
 <!--
 **eli-standard/eli-standard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
